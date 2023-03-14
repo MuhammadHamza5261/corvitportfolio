@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823309671924",
+    "project_id": "hamzacit",
+    "storage_bucket": "hamzacit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823309671924:android:8d4aa68033ac6eae8a2da1",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823309671924-sv9g8tcgqtfittenqq5kiulcchq03ar7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZlOlaq6kjGrkdGXVVaNyoqKrtMNW8ZJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823309671924-sv9g8tcgqtfittenqq5kiulcchq03ar7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
